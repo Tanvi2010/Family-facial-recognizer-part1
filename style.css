@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+    color: hotpink;
+}
+
+.heading {
+    width: 100%;
+    top: 0px;
+    box-shadow: 15px 15px 20px rgb(185, 151, 0);
+    font-size: 40px;
+    background-color: rgb(255, 217, 0);
+
+}
+
+p {
+    font-size: 30px;
+    color: rgb(73, 167, 255);
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#object-names,
+#object_accuracy {
+    color: palevioletred;
+}
+
